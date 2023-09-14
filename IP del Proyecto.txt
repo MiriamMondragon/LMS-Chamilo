@@ -1,0 +1,12 @@
+LMS Chamilo
+
+Enlace a el inicio de sesión de la plataforma:
+http://35.153.26.156
+
+IP Estatica de la Instancia:
+35.153.26.156
+
+Integrantes:
+Karol Palma
+Miriam Mondragón
+Óscar Laínez
