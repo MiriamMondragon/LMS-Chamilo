@@ -2,8 +2,8 @@
 ## Key Words
  <kbd>CentOS7</kbd> <kbd>SQL</kbd> <kbd>Linux</kbd> <kbd>Emmbed</kbd> <kbd>JavaScript</kbd> <kbd>jQuery</kbd> <kbd>LMS</kbd> <kbd>Educational Plataform</kbd>
  
- ## Video Demo
-You can watch this project functionalities in the video demo (audio in spanish) for [LMS-Chamilo Project](https://www.youtube.com/live/oVIhbdPLh9E?si=Cl9NCLI8ZlVa7Y3i).
+[//]: # (## Video Demo)
+[//]: # (You can watch this project functionalities in the video demo [audio in spanish] for [LMS-Chamilo Project]https://www.youtube.com/live/oVIhbdPLh9E?si=Cl9NCLI8ZlVa7Y3i.)
 
  ## Functionality and Usage
 - Accounts
